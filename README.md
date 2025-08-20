@@ -1,4 +1,4 @@
-# Aout me
+# About me
 
 hello there fellow reader.. allow me to introduce myself
 - I'm Naveen Garg, a resilent coder.
@@ -28,7 +28,7 @@ hello there fellow reader.. allow me to introduce myself
 </a>
 </div>
 
-## Technologies I know
+# Technologies I know
 Let's talk about the technologies I tend to keep using generally in my projects. I make projects in : 
 - Web Development
 - Machine Learning
