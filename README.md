@@ -8,6 +8,8 @@
 </div>
 
 <div>
+<br> 
+<br>
 
 hello there fellow reader.. allow me to introduce myself
 - I'm Naveen Garg, a resilent coder.
@@ -15,6 +17,8 @@ hello there fellow reader.. allow me to introduce myself
 - If you aren't aware yet, I am super interested in making machines behave like humans (but better).
 - I am always up for chat about how cats are ruling over the world and have branches spread out to universe.
 
+<br>
+<br>
 </div>
 
 # Read my stuff
@@ -44,6 +48,14 @@ Apart from blogs I also write novel.. that I'll add once it gets published.
 <img src="https://streak-stats.demolab.com?user=CodeNaveen-in&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </a>
 </div>
+
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/CodeNaveen-in/CodeNaveen-in/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeNaveen-in/CodeNaveen-in/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/CodeNaveen-in/CodeNaveen-in/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
 # Technologies I know
 Let's talk about the technologies I tend to keep using generally in my projects. I make projects in : 
