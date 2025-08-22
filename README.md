@@ -49,13 +49,22 @@ Apart from blogs I also write novel.. that I'll add once it gets published.
 </a>
 </div>
 
+<!--
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/CodeNaveen-in/CodeNaveen-in/output-3d-contrib/night.svg" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeNaveen-in/CodeNaveen-in/output-3d-contrib/day.svg" />
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/CodeNaveen-in/CodeNaveen-in/output-3d-contrib/day.svg" />
 	</picture>
-</p>
+</p> -->
+
+<!-- https://github.com/yoshi389111/github-profile-3d-contrib -->
+<a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeNaveen-in/CodeNaveen-in/main/profile-3d-contrib/profile-night-view.svg">
+  <img alt="CodeNaveen-in's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/CodeNaveen-in/CodeNaveen-in/main/profile-3d-contrib/profile-green.svg">
+</picture>
+</a>
 
 # Technologies I know
 Let's talk about the technologies I tend to keep using generally in my projects. I make projects in : 
