@@ -49,16 +49,6 @@ Apart from blogs I also write novel.. that I'll add once it gets published.
 </a>
 </div>
 
-<!--
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/CodeNaveen-in/CodeNaveen-in/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeNaveen-in/CodeNaveen-in/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/CodeNaveen-in/CodeNaveen-in/output-3d-contrib/day.svg" />
-	</picture>
-</p> -->
-
-<!-- https://github.com/yoshi389111/github-profile-3d-contrib -->
 <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeNaveen-in/CodeNaveen-in/main/profile-3d-contrib/profile-night-view.svg">
@@ -77,64 +67,17 @@ But you'll find some repos in other things as well.
 <img src="./assets/neko_white.gif" height="125px"/>
 </div>
 
-<div align="center">
+## 🚀 Tech Stack
 
-<h2> Languages </h2>
-<p>
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,python,bash" alt="languages"
-    />
-  </a>
-</p>
-
-<h2> Frameworks</h2>
-<p>
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwind,flask,react,next" alt="frameworks"
-    />
-  </a>
-</p>
-
-<h2> Database</h2>
-<p>
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,supabase" alt="database"
-    />
-  </a>
-</p>
-
-<h2> Tools </h2>
-<p>
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vite,npm,supabase,api,huggingface" alt="coding_tool_list"
-    />
-  </a>
-</p>
-<p>
-  <a> 
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=vscode,postman,figma,linux,canva" alt="non_coding_tool_list"
-    />
-    </a>
-
-</p>
-
-<p>
-      <a> 
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=gemini,chatgpt" alt="ai_tool_list"
-    />
-    </a>
-</p>
-
-</div>
-
+| Category       | Technologies |
+|----------------|--------------|
+| **Languages**  | ![](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,python,bash) |
+| **Frameworks** | ![](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwind,flask,react,next) |
+| **Databases**  | ![](https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,supabase) |
+| **Dev Tools**  | ![](https://go-skill-icons.vercel.app/api/icons?i=git,github,vite,npm,api,huggingface) |
+| **Design & OS**| ![](https://go-skill-icons.vercel.app/api/icons?i=vscode,postman,figma,linux,canva) |
+| **AI Tools**   | ![](https://go-skill-icons.vercel.app/api/icons?i=gemini,chatgpt) |
 ---
-
 
 <div align="center">
 
