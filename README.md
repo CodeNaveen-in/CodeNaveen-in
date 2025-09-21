@@ -71,12 +71,12 @@ But you'll find some repos in other things as well.
 
 | Category       | Technologies |
 |----------------|--------------|
-| **Languages**  | ![](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,python,bash) |
-| **Frameworks** | ![](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwind,flask,react,next) |
+| **Languages**  | ![](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,python,bash,java) |
+| **Frameworks** | ![](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwind,flask,react,vue,nuxt,next) |
 | **Databases**  | ![](https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,supabase) |
 | **Dev Tools**  | ![](https://go-skill-icons.vercel.app/api/icons?i=git,github,vite,npm,api,huggingface) |
 | **Design & OS**| ![](https://go-skill-icons.vercel.app/api/icons?i=vscode,postman,figma,linux,canva) |
-| **AI Tools**   | ![](https://go-skill-icons.vercel.app/api/icons?i=gemini,chatgpt) |
+| **AI Tools**   | ![](https://go-skill-icons.vercel.app/api/icons?i=gemini,chatgpt,firebase) |
 ---
 
 <div align="center">
